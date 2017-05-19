@@ -31,7 +31,6 @@ Users are able to query/search for the results and also able to view/add comment
 
 --
 ###Project Organization
-[Presentation Deck] () 
 
 [User Stories List](https://onedrive.live.com/view.aspx?resid=9ED0BDE3A110F6D7!128&ithint=file%2cxlsx&app=Excel&authkey=!AI2UPK9WIDdOW7Y)
 
