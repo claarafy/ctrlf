@@ -37,11 +37,11 @@ Users are able to query/search for the results and also able to view/add comment
 
 [Trello Board](https://trello.com/b/DaBpYK8g/project-03-ctrl-f)
 
-##Unsovled Problems
+## Unsovled Problems
 - Retaining the original webpage's features as users proceed in the application.
 - Speedy search problems
 
-##Dream Features
+## Dream Features
 - Chrome extension/plugin utility
 - Attach comments to a specific part of the webpage
 - Sorting results according to user's reactions
